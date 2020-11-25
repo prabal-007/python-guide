@@ -1,4 +1,4 @@
-iterator = iter('abc')
+iterator = iter('abc')    # itrate a b c
 print(next(iterator))
 print(next(iterator))
 print(next(iterator))
