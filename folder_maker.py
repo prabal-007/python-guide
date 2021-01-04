@@ -18,7 +18,7 @@ class Folder_Maker(object):
                         amount -= 1
                     break
             except:
-                print("Invalid Filename")
+                print("Invalid Filename") 
                 continue
     
 if __name__ == "__main__":
